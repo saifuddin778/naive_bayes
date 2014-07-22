@@ -1,7 +1,7 @@
 naive_bayes
 ===========
 
-A ready-made Naive Bayes classification model for binary vectors.
+A ready-made Naive Bayes classification model for binary vectors. More info [here](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 ###Usage:
 A simple example usage is given below:
