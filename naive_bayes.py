@@ -2,6 +2,8 @@ from __future__ import division
 import sys
 sys.dont_write_bytecode = True
 import math
+__author__ = 'Saifuddin Abdullah'
+__version__ = 1.0
 
 """
 Naive Bayesian classification model for binary vectors.
